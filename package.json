@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "author": "Hunter Chang",
   "dependencies": {
+    "babel-eslint": "^10.1.0",
     "bootstrap": "^4.5.0",
     "chart.js": "^2.9.3",
     "chromedriver": "^83.0.0",

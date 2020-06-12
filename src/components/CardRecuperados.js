@@ -1,5 +1,5 @@
 import React from 'react'
-import DadosRecuperados from '../Components/DadosRecuperados'
+import DadosRecuperados from '../components/DadosRecuperados'
 
 export default class CardRecuperados extends React.Component {
   constructor(props) {
