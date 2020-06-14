@@ -23,7 +23,7 @@ class ChartObitos extends Component {
           labels: data,
           datasets: [
             {
-              label: 'Quantidade de Óbitos por COVID-19',
+              label: 'Quantidade de Óbitos',
               data: qtdObitos,
             //   backgroundColor: 'transparent',
               borderColor: '#efa8b0',
