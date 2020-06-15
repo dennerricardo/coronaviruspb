@@ -99,6 +99,11 @@ class Index extends React.Component {
               <h6>Fonte: Secretaria do Estado da Paraíba</h6>
               <br></br>
               <br></br>
+              <script
+                data-ad-client="ca-pub-7075860452145636"
+                async
+                src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+              ></script>
               <br></br>
               <br></br>
               <header className="major">
