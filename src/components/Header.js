@@ -7,7 +7,6 @@ const Header = (props) => (
         {/* <span className="logo"><img src={logo} alt="" /></span> */}
         <h1>COVID-19 no Estado da Paraíba</h1>
         <h6>Criado por Denner Ricardo</h6>
-        <p>Atualizado: 16/06/2020</p>
     </header>
 )
 
